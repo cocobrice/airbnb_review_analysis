@@ -23,3 +23,4 @@ Contents:
 | airbnb.ipynb | This notebook is used for cleaning text, finding commonly used words and phrases, using TextBlob to establish sentiment, cleaning feature data and modelling results |
 
 ### **Blog Post**
+https://medium.com/@cocobrice3/airbnb-review-sentiment-analysis-da2756a8302f
