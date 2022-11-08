@@ -12,9 +12,9 @@ Contents:
 4. [Blog post](#blog-post)
 
 ### **Libraries used**
-> numpy
-> pandas
-> matplotlib.pyplot
+numpy
+pandas
+matplotlib.pyplot
 > seaborn
 > collections
 > from sklearn.linear_model import LinearRegression
