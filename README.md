@@ -12,16 +12,16 @@ Contents:
 4. [Blog post](#blog-post)
 
 ### **Libraries used**
-'*' numpy
-'*' pandas
-'*' matplotlib.pyplot
-'*' seaborn
-'*' collections
-'*' from sklearn.linear_model import LinearRegression
-'*' from sklearn.model_selection import train_test_split
-'*' from sklearn.metrics import r2_score, mean_squared_error
-'*' from textblob import TextBlob 
-'*' from wordcloud import WordCloud
+* numpy
+* pandas
+* matplotlib.pyplot
+* seaborn
+* collections
+* from sklearn.linear_model import LinearRegression
+* from sklearn.model_selection import train_test_split
+* from sklearn.metrics import r2_score, mean_squared_error
+* from textblob import TextBlob 
+* from wordcloud import WordCloud
 
 ### **Data**
 |      Data       |             Description                      |                    Source                      |
