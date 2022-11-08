@@ -6,10 +6,22 @@ For this project we pick a dataset and answer 3 questions using the data. The qu
 3. Can we use the features of an AirBNB property to predict its eventual review sentiment or score?
 
 Contents:
+1. [Libraries used](#libraries-used)
+2. [Data](#data)
+3. [Notebooks](#notebooks)
+4. [Blog post](#blog-post)
 
-1. [Data](#data)
-2. [Notebooks](#notebooks)
-3. [Blog post](#blog-post)
+### **Libraries used**
+> numpy
+> pandas
+> matplotlib.pyplot
+> seaborn
+> collections
+> from sklearn.linear_model import LinearRegression
+> from sklearn.model_selection import train_test_split
+> from sklearn.metrics import r2_score, mean_squared_error
+> from textblob import TextBlob 
+> from wordcloud import WordCloud
 
 ### **Data**
 |      Data       |             Description                      |                    Source                      |
